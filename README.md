@@ -39,7 +39,7 @@ Edit `.env` with your API keys:
 ```env
 # Required
 GITHUB_TOKEN=ghp_your_github_personal_access_token
-ANTHROPIC_API_KEY=sk-ant-your_anthropic_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
 
 # Optional
 DATABASE_PATH=gitanalyzer.db
